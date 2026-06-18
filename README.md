@@ -1,16 +1,24 @@
-<h1 align="center">Hi, I'm Dharshan 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C2FF&height=230&section=header&text=DHARSHAN%20V&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Automation%20Builder%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=56&descSize=18&descColor=ffffff" width="100%"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Automation+That+Saves+Time;Creating+AI-Powered+Workflows;Python+%7C+Flask+%7C+n8n+%7C+UiPath;Final+Year+%E2%80%94+Smart+Digital+Twin+Platform;Future+Software+Engineer" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=DharshanVelumani&style=for-the-badge&color=00C2FF&labelColor=0F2027&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/DharshanVelumani?style=for-the-badge&color=00C2FF&labelColor=0F2027&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-success?style=for-the-badge&labelColor=0F2027"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Automation+That+Saves+Time;Creating+AI-Powered+Workflows;Python+%7C+Flask+%7C+n8n+%7C+UiPath;Final+Year+%E2%80%94+Smart+Digital+Twin+Platform;Future+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/dharshan-v-121341369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:dharshanvelumani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/dharshan_060708"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/dharshan2411"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C2FF&height=4" width="100%"/>
 
 ## 🚀 About Me
 
@@ -43,12 +51,12 @@ class DharshanVelumani:
 me = DharshanVelumani()
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,50:2C5364,100:0F2027&height=4" width="100%"/>
 
 ## 🔥 Featured Projects
 
 ### 🧬 Smart Digital Twin — AI Academic & Career Simulation Platform
-*Final Year Project*
+![Status](https://img.shields.io/badge/STATUS-IN%20PROGRESS-yellow?style=flat-square) ![Final Year](https://img.shields.io/badge/FINAL%20YEAR%20PROJECT-00C2FF?style=flat-square)
 
 An AI-driven platform that builds a "digital twin" of a student's academic profile to simulate career trajectories and recommend next steps.
 
@@ -60,6 +68,8 @@ An AI-driven platform that builds a "digital twin" of a student's academic profi
 ---
 
 ### 🤖 Nebula Pro (ClientSim)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-success?style=flat-square)
+
 A full-stack simulation of an AI industry client, built so students can practice real client interactions before they hit the job market.
 
 **Stack:** TypeScript · React · Express · Vite · Supabase · Google OAuth · Gemini/Z.ai API
@@ -70,6 +80,8 @@ A full-stack simulation of an AI industry client, built so students can practice
 ---
 
 ### 🎯 AI-Powered Student Opportunity Aggregator
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-success?style=flat-square)
+
 Scrapes and aggregates internships, hackathons, and scholarships from Internshala, Devpost, Unstop, and LinkedIn into a single, India-context dashboard (INR pricing, Indian platforms).
 
 **Stack:** Flask · PostgreSQL · BeautifulSoup · Selenium · n8n · Ollama / OpenAI
@@ -80,6 +92,8 @@ Scrapes and aggregates internships, hackathons, and scholarships from Internshal
 ---
 
 ### 📊 AI Lead Management System
+![Status](https://img.shields.io/badge/STATUS-COMPLETE-blue?style=flat-square)
+
 AI-powered lead classification and automation platform.
 
 **Stack:** n8n · Ollama · Webhooks · Google Sheets · HTML/CSS/JS
@@ -90,7 +104,7 @@ AI-powered lead classification and automation platform.
 ---
 
 ### ⚡ Web Form Automation System
-🏆 *2nd Runner-Up — Project Competition*
+![Award](https://img.shields.io/badge/🏆%202ND%20RUNNER--UP-FFD700?style=flat-square&labelColor=0F2027)
 
 Automated browser-based form filling using UiPath, with a Flask control dashboard.
 
@@ -99,7 +113,7 @@ Automated browser-based form filling using UiPath, with a Flask control dashboar
 
 🔗 [Repository](#)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C2FF&height=4" width="100%"/>
 
 ## 🧠 What I Build
 
@@ -109,7 +123,7 @@ Automated browser-based form filling using UiPath, with a Flask control dashboar
 | 🌐 **Full-Stack Web Apps** | Python, Flask, React, TypeScript, Supabase, PostgreSQL |
 | ⚙️ **RPA Solutions** | UiPath Studio, Browser Automation, Selenium, Form Automation |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,50:2C5364,100:0F2027&height=4" width="100%"/>
 
 ## 🛠 Tech Arsenal
 
@@ -136,7 +150,7 @@ Automated browser-based form filling using UiPath, with a Flask control dashboar
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C2FF&height=4" width="100%"/>
 
 ## 📚 Python DSA Journey
 
@@ -144,16 +158,26 @@ Automated browser-based form filling using UiPath, with a Flask control dashboar
 
 `Arrays` · `Strings` · `Linked Lists` · `Stacks` · `Queues` · `Trees` · `HashMaps`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C2FF,50:2C5364,100:0F2027&height=4" width="100%"/>
+
+## 🏆 Trophy Room
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DharshanVelumani&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+</p>
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DharshanVelumani&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DharshanVelumani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshanVelumani&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DharshanVelumani&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:2C5364,100:00C2FF&height=4" width="100%"/>
 
 ## ⚡ 2026 Mission
 
@@ -163,12 +187,14 @@ Automated browser-based form filling using UiPath, with a Flask control dashboar
 - [ ] Make first open-source contribution
 - [ ] Master backend system design
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:2C5364,100:0F2027&height=160&section=footer&text=Automate%20Everything%20That%20Repeats&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+</p>
 
-## 🌐 Connect
-
-[📧 Email](mailto:dharshanvelumani@gmail.com) · [💻 GitHub](https://github.com/DharshanVelumani) · [🔗 LinkedIn](https://linkedin.com/in/dharshan-v-121341369)
-
-<p align="center"><i>"Automate Everything That Repeats"</i></p>
+<p align="center">
+  📧 <a href="mailto:dharshanvelumani@gmail.com">Email</a> &nbsp;|&nbsp;
+  💻 <a href="https://github.com/DharshanVelumani">GitHub</a> &nbsp;|&nbsp;
+  🔗 <a href="https://linkedin.com/in/dharshan-v-121341369">LinkedIn</a>
+</p>
 
 <p align="center">⭐ Thanks for visiting my profile ⭐</p>

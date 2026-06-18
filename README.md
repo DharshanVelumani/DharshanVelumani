@@ -16,23 +16,32 @@
 class DharshanVelumani:
 
     def __init__(self):
-        self.role = "BCA Student"
-        self.location = "Coimbatore, India"
-        self.languages = ["Python", "JavaScript", "SQL"]
-        self.interests = [
-            "AI Automation",
-            "Workflow Engineering",
-            "Backend Development",
-            "Problem Solving"
+        self.education = "BCA Student"
+        self.college = "KG College of Arts and Science"
+
+        self.skills = {
+            "Languages": ["Python", "JavaScript", "SQL"],
+            "Backend": ["Flask"],
+            "Automation": ["n8n", "UiPath"],
+            "AI": ["Ollama", "LLMs"]
+        }
+
+        self.projects = [
+            "AI Lead Management System",
+            "Web Form Automation System"
         ]
 
-    def current_focus(self):
+        self.achievement = "2nd Runner Up - Project Competition"
+
+    def current_mission(self):
         return [
-            "Building AI Agents",
-            "n8n Automation",
-            "Flask Applications",
-            "LeetCode Practice"
+            "Master DSA",
+            "Build Production AI Agents",
+            "Create Unique Final Year Project",
+            "Contribute to Open Source"
         ]
+
+me = DharshanVelumani()
 ```
 
 ---

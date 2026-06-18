@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 ```python
-class Dharshan:
+class DharshanVelumani:
 
     def __init__(self):
         self.role = "BCA Student"
